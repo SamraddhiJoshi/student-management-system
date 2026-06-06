@@ -43,9 +43,6 @@ student-management-system/
 ```text
 http://localhost/student_system
 ```
-## 📸 Screenshots
-
-Screenshots will be added after deployment.
 
 ## 👨‍💻 Author
 
